@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
+#s1 {
+    color: orange;
+}
+#s2 {
+    color: lavender;
+}
+
+a {
+    color: brown;
+    text-decoration: line-through;
+}
