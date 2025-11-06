@@ -5,3 +5,15 @@ p {
     background-color: #00ffa6;
     color: white;
 }
+
+span#s1 {
+    font-weight: bold;
+}
+
+#s1 {
+    color: #d71616;
+}
+
+#s2 {
+    color: blue;
+}
