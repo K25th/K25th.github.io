@@ -1,0 +1,58 @@
+#container {
+    width: 500px;
+    min-height: 100vh;
+    background-color: #44cdff;
+    font-size: 0px;
+}
+.block {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #d7d7d7;
+}
+
+.red {
+    background-color: #6c0000;
+}
+.yellow {
+    background-color: yellow;
+}
+.yellow {
+    background-color: yellow;
+}
+.green {
+    background-color: green;
+}
+.green {
+    background-color: green;
+}
+.red {
+    background-color: #6c0000;
+}
+.yellow {
+    background-color: yellow;
+}
+.green {
+    background-color: green;
+}
+.green {
+    background-color: green;
+}
+.orange {
+    background-color: orange;
+}
+.red {
+    background-color: #6c0000;
+}
+.blue {
+    background-color: yellow;
+}
+.orange {
+    background-color: orange;
+}
+.orange {
+    background-color: orange;
+}
+.orange {
+    background-color: orange;
+}
