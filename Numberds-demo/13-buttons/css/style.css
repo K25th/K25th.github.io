@@ -1,0 +1,44 @@
+.btn {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+
+.simple {
+    border: 1px solid #111;
+    border-radius: 5px;
+    background-color: #bb72ff;
+    padding: 10px 20px;
+}
+
+.bg {
+    background-color: red;
+    color: aliceblue;
+    padding: 5px 40px;
+    border-radius: 5px 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.border {
+    color: #fb00ff;
+    border: 3px solid #fb00ff;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    min-width: 150px;
+    text-align: center;
+}
+
+.wide .btn {
+    display: block;
+    color: #bb72ff;
+    border-color: #fb00ff;
+    background-color: #a2d4ff;
+}
+
+.wide .btn:hover {
+    background-color: transparent;
+    color: #f2cb05;
+}
