@@ -1,0 +1,31 @@
+#morning {
+    background-color: #40c7e2;
+    border: 24px;
+    margin: 15px;
+    border-radius: 5px;
+}
+.completed {
+    text-decoration: line-through;
+    background-color: #37a2b7;
+    border-radius: 5px;
+}
+#afternoon {
+    background-color: #40c7e2;
+    border: 24px;
+    margin: 15px;
+    border-radius: 5px;
+}
+.important {
+    background-color: #37a2b7;
+    border-radius: 5px;
+}
+#evening {
+    background-color: #40c7e2;
+    border: 24px;
+    margin: 15px;
+    border-radius: 5px;
+}
+.completed {
+    background-color: #37a2b7;
+    border-radius: 5px;
+}
