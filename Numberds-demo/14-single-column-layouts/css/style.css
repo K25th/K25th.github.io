@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.single-colum {
+    background-color: aquamarine;
+    width: 50%;
+    max-width: 900px;
+    min-width: 500px;
+    margin-left: auto;
+}
+.light-containe {
+    background-color: #c1e023;
+    
+}
