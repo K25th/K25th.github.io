@@ -1,0 +1,27 @@
+.cover {
+background-color: #ff3a3a;
+width: 100%;
+max-width: 900px;
+min-width: 500px;
+margin-left: auto;
+margin-right: auto;
+}
+
+body {
+margin: 0px;
+font-family: sans-serif;
+}
+
+.ig {
+width: 100%;
+max-width: 900px;
+min-width: 500px;
+}
+
+.ia {
+width: 100%;
+max-width: 900px;
+min-width: 500px;
+margin-left: auto;
+margin-right: auto;
+}
