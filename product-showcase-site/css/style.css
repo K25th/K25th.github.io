@@ -1,0 +1,40 @@
+body {
+margin: 0px;
+font-family: "Stack Sans Notch", sans-serif;
+background-color: #0e2a71;
+}
+
+.ps5 {
+width: 50%;
+max-width: 900px;
+min-width: 600px;
+margin-left: auto;
+margin-right: auto;
+color: #a4bcfc;
+}
+
+.buttom {
+border: 1px solid #111;
+border-radius: 5px;
+background-color: #144be2;
+padding: 10px 20px;
+color: #a4bcfc; 
+}
+
+.ps5c {
+width: 50%;
+max-width: 900px;
+min-width: 600px;
+margin-left: auto;
+margin-right: auto;
+color: #a4bcfc;
+}
+
+.ps5s {
+width: 50%;
+max-width: 900px;
+min-width: 600px;
+margin-left: auto;
+margin-right: auto;
+color: #a4bcfc;
+}
