@@ -37,5 +37,27 @@ body {
 }
 
 .sbs {
+    margin-bottom: 50px;
     display: flex;
+    align-items: center;
+    gap: 36px;
+}
+
+.sbs .img,
+.sbs.content {
+    flex: 1;
+}
+
+.sbs img {
+    width: 100%;
+}
+
+.sbs h2 {
+    font-size: 4opx;
+    margin: 0px;
+}
+
+.sbs p {
+    margin-top: 16px;
+    font-size: 20px;
 }
