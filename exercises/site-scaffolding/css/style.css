@@ -5,3 +5,34 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
+
+h2 {
+    width: 100%;
+    object-fit: cover;
+    color: white;
+}
+
+header {
+    position: sticky;
+    top: 0px;
+}
+
+header #top-lvl {
+    background: linear-gradient(to bottom, #07f3ef, #00919e);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#top-lvl a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 24px;
+}
+
+.Home {
+    width: 80vw;
+    margin: 48px auto;
+    font-size: 24px;
+    height: 200vh;
+}
