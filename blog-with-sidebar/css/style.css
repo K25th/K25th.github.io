@@ -1,31 +1,36 @@
 * {
     box-sizing: border-box;
 }
-
 body {
-margin: 0px;
-font-family: sans-serif;
+    margin: 0px;
+    font-family: sans-serif;
 }
 
-.cover {
-background-color: #ff3a3a;
-width: 100%;
-max-width: 900px;
-min-width: 500px;
-margin-left: auto;
-margin-right: auto;
+img {
+    width: 100%;
+    object-fit: cover;
 }
 
-.ig {
-width: 100%;
-max-width: 900px;
-min-width: 500px;
+.two-col {
+    display: flex;
+    width: 80vw;
+    max-width: 1280px;
+    margin: 0% auto;
+    gap: 50px;
+    background-color: #800202;
+    color: white;
 }
 
-.ia {
-width: 100%;
-max-width: 900px;
-min-width: 500px;
-margin-left: auto;
-margin-right: auto;
+#sidebar {
+    width: 250px;
+    order: 2;
+    background-color: #bc1111;
+    text-decoration: underline;
 }
+
+#main {
+    flex: 1;
+    order: 1;
+}
+
+
