@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+
+#centered-hero {
+    background-image: url("../images/super\ bowl.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid;
+}
+
+#centered-hero .hero-content {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.hero-content h1 {
+    font-size: 50px;
+    margin: 0px;
+}
+.hero-content p {
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.single-column {
+    width: 90vw;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.card-container {
+    display: flex;
+    gap: 36px;
+    flex-wrap: wrap;
+}
+
+.card {
+    padding: 36px;
+    text-align: center;
+    margin: 36px 0px;
+    flex: 1;
+    border: 5px solid;
+}
+
+.party-hero-content {
+    text-align: center;
+}
+
+.heading {
+    text-align: center;
+}
