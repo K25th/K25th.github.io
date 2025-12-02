@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+#centered-hero {
+    background-image: url("../images/fallen\ titan.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid;
+}
+
+#centered-hero .hero-content {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.hero-content h1 {
+    font-size: 50px;
+    margin: 0px;
+}
+.hero-content p {
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+#layout {
+    width: 90%;
+    max-width: 900px;
+    margin: 0px auto;
+}
+
+.basic-grid-gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 25px;
+    border: 10px solid #760000;
+}
