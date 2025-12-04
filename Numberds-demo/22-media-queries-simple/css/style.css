@@ -39,9 +39,6 @@ nav a {
 }
 
 @media screen and (max-width: 660px) {
-    .layout h1 {
-        font-size: 44px;
-    }
     .gallery {
         grid-template-columns: 1fr;
     }
